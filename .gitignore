@@ -1,0 +1,4 @@
+*.pem
+*.crx
+*.zip
+__pycache__/
